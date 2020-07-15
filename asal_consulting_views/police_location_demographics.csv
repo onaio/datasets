@@ -1,0 +1,5 @@
+region,security_zone,district,police_station_post,total_arrests,percent_male,percent_single,percent_employed,percent_urban,percent_highschool_higher,latitude,longitude
+Hirshabele,Hiiraan,Beledweyne,Airport_Station,,,,,,,4.738238,45.204415
+Hirshabele,Hiiraan,Beledweyne,Central_station,,,,,,,4.738195,45.204434
+Jubaland,Jubada_Hoose,Kismayo,Kismayo_Central_Police_Station,,,,,,,-0.359499,42.551086
+South_West,Bay,Baidoa,Baidoa_Police_station,6,100,83.3333333333333,16.6666666666667,83.3333333333333,33.3333333333333,3.1170765,43.6545275
